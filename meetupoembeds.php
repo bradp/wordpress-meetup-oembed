@@ -8,3 +8,6 @@ Author URI: http://bradparbs.com/
 */
 
 wp_oembed_add_provider('http://www.meetup.com/*','http://api.meetup.com/oembed?url=');
+wp_oembed_add_provider('http://meetup.com/*','http://api.meetup.com/oembed?url=');
+wp_oembed_add_provider('http://www.wpmke.com/*','http://api.meetup.com/oembed?url='); //love to #wpmke
+wp_oembed_add_provider('http://www.mkepug.org/*','http://api.meetup.com/oembed?url=');
